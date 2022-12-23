@@ -1,0 +1,15 @@
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\bin\Debug\net6.0\task015.exe
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\bin\Debug\net6.0\task015.deps.json
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\bin\Debug\net6.0\task015.runtimeconfig.json
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\bin\Debug\net6.0\task015.dll
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\bin\Debug\net6.0\task015.pdb
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.csproj.AssemblyReference.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.AssemblyInfoInputs.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.AssemblyInfo.cs
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.csproj.CoreCompileInputs.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.dll
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\refint\task015.dll
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.pdb
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\task015.genruntimeconfig.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task015\obj\Debug\net6.0\ref\task015.dll
