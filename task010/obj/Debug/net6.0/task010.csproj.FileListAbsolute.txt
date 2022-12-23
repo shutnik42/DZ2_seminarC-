@@ -1,0 +1,15 @@
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\bin\Debug\net6.0\task010.exe
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\bin\Debug\net6.0\task010.deps.json
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\bin\Debug\net6.0\task010.runtimeconfig.json
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\bin\Debug\net6.0\task010.dll
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\bin\Debug\net6.0\task010.pdb
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.csproj.AssemblyReference.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.AssemblyInfoInputs.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.AssemblyInfo.cs
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.csproj.CoreCompileInputs.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.dll
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\refint\task010.dll
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.pdb
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\task010.genruntimeconfig.cache
+C:\Users\Alexei\Desktop\DZ2_seminarC#\task010\obj\Debug\net6.0\ref\task010.dll
